@@ -28,11 +28,6 @@ public class ReadInput {
             System.err.format("Erro de E/S: %s%n", x);
         }
 
-        // teste de leitura do arquivo
-        for (String InputLido : inputLine) {
-            System.out.println("Palavra de entrada: " + InputLido);
-        }
-
     }
 
 }
